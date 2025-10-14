@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 365be3c6d16d92b44b832bf140c93bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8116439782286861711
+    second: laptop-device-clipart-design-illustration-free-png_0
+  - first:
+      213: 8076071373470169339
+    second: laptop-device-clipart-design-illustration-free-png_1
+  - first:
+      213: -3194251534516176938
+    second: laptop-device-clipart-design-illustration-free-png_2
+  - first:
+      213: -5888765167400144986
+    second: laptop-device-clipart-design-illustration-free-png_3
+  - first:
+      213: -7814229300861061114
+    second: laptop-device-clipart-design-illustration-free-png_4
+  - first:
+      213: -2091279341721964775
+    second: laptop-device-clipart-design-illustration-free-png_5
+  - first:
+      213: -8029618150072250471
+    second: laptop-device-clipart-design-illustration-free-png_6
+  - first:
+      213: 1695554319662489984
+    second: laptop-device-clipart-design-illustration-free-png_7
+  - first:
+      213: -2373270271206816805
+    second: laptop-device-clipart-design-illustration-free-png_8
+  - first:
+      213: -5272716934912925620
+    second: laptop-device-clipart-design-illustration-free-png_9
+  - first:
+      213: 7307547019612513643
+    second: laptop-device-clipart-design-illustration-free-png_10
+  - first:
+      213: 645832128311597200
+    second: laptop-device-clipart-design-illustration-free-png_11
+  - first:
+      213: 5538444398944999022
+    second: laptop-device-clipart-design-illustration-free-png_12
+  - first:
+      213: 1176900485364295780
+    second: laptop-device-clipart-design-illustration-free-png_13
+  - first:
+      213: 7283803046051012041
+    second: laptop-device-clipart-design-illustration-free-png_14
+  - first:
+      213: 8060859082933028945
+    second: laptop-device-clipart-design-illustration-free-png_15
+  - first:
+      213: -9192885018640939699
+    second: laptop-device-clipart-design-illustration-free-png_16
+  - first:
+      213: -5857131130531730929
+    second: laptop-device-clipart-design-illustration-free-png_17
+  - first:
+      213: -4459773017158187913
+    second: laptop-device-clipart-design-illustration-free-png_18
+  - first:
+      213: 5797878581697176176
+    second: laptop-device-clipart-design-illustration-free-png_19
+  - first:
+      213: -281678205210764918
+    second: laptop-device-clipart-design-illustration-free-png_20
+  - first:
+      213: -312899471868618641
+    second: laptop-device-clipart-design-illustration-free-png_21
+  - first:
+      213: 7903750973406170903
+    second: laptop-device-clipart-design-illustration-free-png_22
+  - first:
+      213: -2833187337509817015
+    second: laptop-device-clipart-design-illustration-free-png_23
+  - first:
+      213: 7470304229882530585
+    second: laptop-device-clipart-design-illustration-free-png_24
+  - first:
+      213: -1294526124720797467
+    second: laptop-device-clipart-design-illustration-free-png_25
+  - first:
+      213: -5524585142869720834
+    second: laptop-device-clipart-design-illustration-free-png_26
+  - first:
+      213: 3310420389518875896
+    second: laptop-device-clipart-design-illustration-free-png_27
+  - first:
+      213: 6081871066553829499
+    second: laptop-device-clipart-design-illustration-free-png_28
+  - first:
+      213: 7623645108483905481
+    second: laptop-device-clipart-design-illustration-free-png_29
+  - first:
+      213: 3822835373342543679
+    second: laptop-device-clipart-design-illustration-free-png_30
+  - first:
+      213: -3227664159176064230
+    second: laptop-device-clipart-design-illustration-free-png_31
+  - first:
+      213: -1066078590769421059
+    second: laptop-device-clipart-design-illustration-free-png_32
+  - first:
+      213: -6488892086025214811
+    second: laptop-device-clipart-design-illustration-free-png_33
+  - first:
+      213: 6524651751734429745
+    second: laptop-device-clipart-design-illustration-free-png_34
+  - first:
+      213: -936695717744529295
+    second: laptop-device-clipart-design-illustration-free-png_35
+  - first:
+      213: 6720056415623186556
+    second: laptop-device-clipart-design-illustration-free-png_36
+  - first:
+      213: 2621711390132895040
+    second: laptop-device-clipart-design-illustration-free-png_37
+  - first:
+      213: 1643745536646640265
+    second: laptop-device-clipart-design-illustration-free-png_38
+  - first:
+      213: -6722353111458574617
+    second: laptop-device-clipart-design-illustration-free-png_39
+  - first:
+      213: 808238700316658031
+    second: laptop-device-clipart-design-illustration-free-png_40
+  - first:
+      213: -3088323384230544757
+    second: laptop-device-clipart-design-illustration-free-png_41
+  - first:
+      213: -2667323455968318698
+    second: laptop-device-clipart-design-illustration-free-png_42
+  - first:
+      213: 1770040468270315217
+    second: laptop-device-clipart-design-illustration-free-png_43
+  - first:
+      213: 3124467112046078267
+    second: laptop-device-clipart-design-illustration-free-png_44
+  - first:
+      213: -4899338351134083812
+    second: laptop-device-clipart-design-illustration-free-png_45
+  - first:
+      213: -2415499223469802174
+    second: laptop-device-clipart-design-illustration-free-png_46
+  - first:
+      213: 8224513699738044176
+    second: laptop-device-clipart-design-illustration-free-png_47
+  - first:
+      213: -6196743492907959419
+    second: laptop-device-clipart-design-illustration-free-png_48
+  - first:
+      213: 1435195958500727068
+    second: laptop-device-clipart-design-illustration-free-png_49
+  - first:
+      213: 1197156561531918473
+    second: laptop-device-clipart-design-illustration-free-png_50
+  - first:
+      213: -1279162265553922753
+    second: laptop-device-clipart-design-illustration-free-png_51
+  - first:
+      213: -4627644100070852775
+    second: laptop-device-clipart-design-illustration-free-png_52
+  - first:
+      213: -2073516327557197546
+    second: laptop-device-clipart-design-illustration-free-png_53
+  - first:
+      213: -6366809274406830290
+    second: laptop-device-clipart-design-illustration-free-png_54
+  - first:
+      213: 7742873470488238286
+    second: laptop-device-clipart-design-illustration-free-png_55
+  - first:
+      213: 5725203308352329511
+    second: laptop-device-clipart-design-illustration-free-png_56
+  - first:
+      213: 8224519077664141000
+    second: laptop-device-clipart-design-illustration-free-png_57
+  - first:
+      213: -7980800789857538969
+    second: laptop-device-clipart-design-illustration-free-png_58
+  - first:
+      213: -6689218210677677062
+    second: laptop-device-clipart-design-illustration-free-png_59
+  - first:
+      213: -5998858332309911657
+    second: laptop-device-clipart-design-illustration-free-png_60
+  - first:
+      213: -2205339332984274854
+    second: laptop-device-clipart-design-illustration-free-png_61
+  - first:
+      213: -6535033455233400229
+    second: laptop-device-clipart-design-illustration-free-png_62
+  - first:
+      213: 3104438260750730270
+    second: laptop-device-clipart-design-illustration-free-png_63
+  - first:
+      213: -8901609577173088150
+    second: laptop-device-clipart-design-illustration-free-png_64
+  - first:
+      213: 3216865956714715758
+    second: laptop-device-clipart-design-illustration-free-png_65
+  - first:
+      213: 3774824743252594894
+    second: laptop-device-clipart-design-illustration-free-png_66
+  - first:
+      213: -7617539335334503715
+    second: laptop-device-clipart-design-illustration-free-png_67
+  - first:
+      213: -1539627698963794663
+    second: laptop-device-clipart-design-illustration-free-png_68
+  - first:
+      213: -6107559669133467574
+    second: laptop-device-clipart-design-illustration-free-png_69
+  - first:
+      213: 324243001212651744
+    second: laptop-device-clipart-design-illustration-free-png_70
+  - first:
+      213: 7141922942174284144
+    second: laptop-device-clipart-design-illustration-free-png_71
+  - first:
+      213: -2798539443620665927
+    second: laptop-device-clipart-design-illustration-free-png_72
+  - first:
+      213: 5546739224930011514
+    second: laptop-device-clipart-design-illustration-free-png_73
+  - first:
+      213: 6961009043593412525
+    second: laptop-device-clipart-design-illustration-free-png_74
+  - first:
+      213: -8842116995800897894
+    second: laptop-device-clipart-design-illustration-free-png_75
+  - first:
+      213: 2957733179040790422
+    second: laptop-device-clipart-design-illustration-free-png_76
+  - first:
+      213: 4627460161704135682
+    second: laptop-device-clipart-design-illustration-free-png_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85ae00baf263a070800000000000000
+      internalID: 8116439782286861711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8f3641028f31070800000000000000
+      internalID: 8076071373470169339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7bae9372dbba3d0800000000000000
+      internalID: -3194251534516176938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afab6fb747e64ea0800000000000000
+      internalID: -5888765167400144986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6083ab83ad74e8390800000000000000
+      internalID: -7814229300861061114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fac8ec4884af2e0800000000000000
+      internalID: -2091279341721964775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f0ae2d5d0119090800000000000000
+      internalID: -8029618150072250471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_7
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081acd89ba1d78710800000000000000
+      internalID: 1695554319662489984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 685
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd309b03343701fd0800000000000000
+      internalID: -2373270271206816805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_9
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40245d32eb83d6b0800000000000000
+      internalID: -5272716934912925620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e77b1c4f996560800000000000000
+      internalID: 7307547019612513643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 685
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981c8026e476f800800000000000000
+      internalID: 645832128311597200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_12
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 685
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e665e5f36d18cdc40800000000000000
+      internalID: 5538444398944999022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_13
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 685
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468af1681c0355010800000000000000
+      internalID: 1176900485364295780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd57c57744451560800000000000000
+      internalID: 7283803046051012041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15844bea0aceddf60800000000000000
+      internalID: 8060859082933028945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4585e218cf4c6080800000000000000
+      internalID: -9192885018640939699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a26c9e44a47bea0800000000000000
+      internalID: -5857131130531730929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740a6dd114bb12c0800000000000000
+      internalID: -4459773017158187913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 556
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e7e00ad3367050800000000000000
+      internalID: 5797878581697176176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89517d2a27471cf0800000000000000
+      internalID: -281678205210764918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_21
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681dd0969b58abf0800000000000000
+      internalID: -312899471868618641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 556
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc50b62a3cfad60800000000000000
+      internalID: 7903750973406170903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_23
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b79d902f7ea8d0800000000000000
+      internalID: -2833187337509817015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_24
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b0f322e1adba760800000000000000
+      internalID: 7470304229882530585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_25
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8cd87295be80ee0800000000000000
+      internalID: -1294526124720797467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_26
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 556
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef089d3451bb453b0800000000000000
+      internalID: -5524585142869720834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_27
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 556
+        width: 184
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc9b7e0ec9f0fd20800000000000000
+      internalID: 3310420389518875896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 184
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78caab0385276450800000000000000
+      internalID: 6081871066553829499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d3d895d0acc960800000000000000
+      internalID: 7623645108483905481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f41ee84807d0530800000000000000
+      internalID: 3822835373342543679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a130d025c880533d0800000000000000
+      internalID: -3227664159176064230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_32
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42a868b278431f0800000000000000
+      internalID: -1066078590769421059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_33
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4af920703d2f5a0800000000000000
+      internalID: -6488892086025214811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c249f2383c8a50800000000000000
+      internalID: 6524651751734429745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_35
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170353125303003f0800000000000000
+      internalID: -936695717744529295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_36
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 427
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780ec3a4bf624d50800000000000000
+      internalID: 6720056415623186556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_37
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d77707e90326420800000000000000
+      internalID: 2621711390132895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_38
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f4fc4bd1cfc610800000000000000
+      internalID: 1643745536646640265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_39
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 427
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee05c0367765b2a0800000000000000
+      internalID: -6722353111458574617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_40
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 427
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690912d0d0773b00800000000000000
+      internalID: 808238700316658031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_41
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 427
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af763ae321425d0800000000000000
+      internalID: -3088323384230544757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 238
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61be0f9e273cbfad0800000000000000
+      internalID: -2667323455968318698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d671558d62709810800000000000000
+      internalID: 1770040468270315217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a5e5c8465c5b20800000000000000
+      internalID: 3124467112046078267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_45
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15743a3abd020cb0800000000000000
+      internalID: -4899338351134083812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_46
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 298
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db9dd014c6a7ed0800000000000000
+      internalID: -2415499223469802174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017483372a7532270800000000000000
+      internalID: 8224513699738044176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf10dff9eb00aa0800000000000000
+      internalID: -6196743492907959419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_49
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 298
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191389ce17dae310800000000000000
+      internalID: 1435195958500727068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_50
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98853a6cc872d9010800000000000000
+      internalID: 1197156561531918473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_51
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35139f52b08f3ee0800000000000000
+      internalID: -1279162265553922753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_52
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573854953e47cfb0800000000000000
+      internalID: -4627644100070852775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_53
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 298
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111bf3d2e36933e0800000000000000
+      internalID: -2073516327557197546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_54
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 298
+        width: 184
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f715e92bc84a7a0800000000000000
+      internalID: -6366809274406830290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 309
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec85f3dd566347b60800000000000000
+      internalID: 7742873470488238286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7275b355312047f40800000000000000
+      internalID: 5725203308352329511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 169
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2898968c532270800000000000000
+      internalID: 8224519077664141000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_58
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c626937ff7e3190800000000000000
+      internalID: -7980800789857538969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_59
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3ab777a7f1b23a0800000000000000
+      internalID: -6689218210677677062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_60
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79786cc4126cfbca0800000000000000
+      internalID: -5998858332309911657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_61
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508640af8f0561e0800000000000000
+      internalID: -2205339332984274854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_62
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52058152b5ee45a0800000000000000
+      internalID: -6535033455233400229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_63
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14cd2f662e251b20800000000000000
+      internalID: 3104438260750730270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_64
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6802679041277480800000000000000
+      internalID: -8901609577173088150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_65
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 169
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a17004b8a94ac20800000000000000
+      internalID: 3216865956714715758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_66
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 169
+        width: 253
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec01de6aa1fd26430800000000000000
+      internalID: 3774824743252594894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda52de7550194690800000000000000
+      internalID: -7617539335334503715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91539ecd3c422aae0800000000000000
+      internalID: -1539627698963794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402cc417d69d3ba0800000000000000
+      internalID: -6107559669133467574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8cf2caa41ff7400800000000000000
+      internalID: 324243001212651744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 639
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c28d83153d1360800000000000000
+      internalID: 7141922942174284144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_72
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5221d04379929d0800000000000000
+      internalID: -2798539443620665927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_73
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cdabefe9f9fc40800000000000000
+      internalID: 5546739224930011514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_74
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 70
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafbaa918d87a9060800000000000000
+      internalID: 6961009043593412525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_75
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 0
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e7da907d7a4580800000000000000
+      internalID: -8842116995800897894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_76
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697fc15d7aafb0920800000000000000
+      internalID: 2957733179040790422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laptop-device-clipart-design-illustration-free-png_77
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 0
+        width: 122
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c85aeef7a083040800000000000000
+      internalID: 4627460161704135682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      laptop-device-clipart-design-illustration-free-png_0: 8116439782286861711
+      laptop-device-clipart-design-illustration-free-png_1: 8076071373470169339
+      laptop-device-clipart-design-illustration-free-png_10: 7307547019612513643
+      laptop-device-clipart-design-illustration-free-png_11: 645832128311597200
+      laptop-device-clipart-design-illustration-free-png_12: 5538444398944999022
+      laptop-device-clipart-design-illustration-free-png_13: 1176900485364295780
+      laptop-device-clipart-design-illustration-free-png_14: 7283803046051012041
+      laptop-device-clipart-design-illustration-free-png_15: 8060859082933028945
+      laptop-device-clipart-design-illustration-free-png_16: -9192885018640939699
+      laptop-device-clipart-design-illustration-free-png_17: -5857131130531730929
+      laptop-device-clipart-design-illustration-free-png_18: -4459773017158187913
+      laptop-device-clipart-design-illustration-free-png_19: 5797878581697176176
+      laptop-device-clipart-design-illustration-free-png_2: -3194251534516176938
+      laptop-device-clipart-design-illustration-free-png_20: -281678205210764918
+      laptop-device-clipart-design-illustration-free-png_21: -312899471868618641
+      laptop-device-clipart-design-illustration-free-png_22: 7903750973406170903
+      laptop-device-clipart-design-illustration-free-png_23: -2833187337509817015
+      laptop-device-clipart-design-illustration-free-png_24: 7470304229882530585
+      laptop-device-clipart-design-illustration-free-png_25: -1294526124720797467
+      laptop-device-clipart-design-illustration-free-png_26: -5524585142869720834
+      laptop-device-clipart-design-illustration-free-png_27: 3310420389518875896
+      laptop-device-clipart-design-illustration-free-png_28: 6081871066553829499
+      laptop-device-clipart-design-illustration-free-png_29: 7623645108483905481
+      laptop-device-clipart-design-illustration-free-png_3: -5888765167400144986
+      laptop-device-clipart-design-illustration-free-png_30: 3822835373342543679
+      laptop-device-clipart-design-illustration-free-png_31: -3227664159176064230
+      laptop-device-clipart-design-illustration-free-png_32: -1066078590769421059
+      laptop-device-clipart-design-illustration-free-png_33: -6488892086025214811
+      laptop-device-clipart-design-illustration-free-png_34: 6524651751734429745
+      laptop-device-clipart-design-illustration-free-png_35: -936695717744529295
+      laptop-device-clipart-design-illustration-free-png_36: 6720056415623186556
+      laptop-device-clipart-design-illustration-free-png_37: 2621711390132895040
+      laptop-device-clipart-design-illustration-free-png_38: 1643745536646640265
+      laptop-device-clipart-design-illustration-free-png_39: -6722353111458574617
+      laptop-device-clipart-design-illustration-free-png_4: -7814229300861061114
+      laptop-device-clipart-design-illustration-free-png_40: 808238700316658031
+      laptop-device-clipart-design-illustration-free-png_41: -3088323384230544757
+      laptop-device-clipart-design-illustration-free-png_42: -2667323455968318698
+      laptop-device-clipart-design-illustration-free-png_43: 1770040468270315217
+      laptop-device-clipart-design-illustration-free-png_44: 3124467112046078267
+      laptop-device-clipart-design-illustration-free-png_45: -4899338351134083812
+      laptop-device-clipart-design-illustration-free-png_46: -2415499223469802174
+      laptop-device-clipart-design-illustration-free-png_47: 8224513699738044176
+      laptop-device-clipart-design-illustration-free-png_48: -6196743492907959419
+      laptop-device-clipart-design-illustration-free-png_49: 1435195958500727068
+      laptop-device-clipart-design-illustration-free-png_5: -2091279341721964775
+      laptop-device-clipart-design-illustration-free-png_50: 1197156561531918473
+      laptop-device-clipart-design-illustration-free-png_51: -1279162265553922753
+      laptop-device-clipart-design-illustration-free-png_52: -4627644100070852775
+      laptop-device-clipart-design-illustration-free-png_53: -2073516327557197546
+      laptop-device-clipart-design-illustration-free-png_54: -6366809274406830290
+      laptop-device-clipart-design-illustration-free-png_55: 7742873470488238286
+      laptop-device-clipart-design-illustration-free-png_56: 5725203308352329511
+      laptop-device-clipart-design-illustration-free-png_57: 8224519077664141000
+      laptop-device-clipart-design-illustration-free-png_58: -7980800789857538969
+      laptop-device-clipart-design-illustration-free-png_59: -6689218210677677062
+      laptop-device-clipart-design-illustration-free-png_6: -8029618150072250471
+      laptop-device-clipart-design-illustration-free-png_60: -5998858332309911657
+      laptop-device-clipart-design-illustration-free-png_61: -2205339332984274854
+      laptop-device-clipart-design-illustration-free-png_62: -6535033455233400229
+      laptop-device-clipart-design-illustration-free-png_63: 3104438260750730270
+      laptop-device-clipart-design-illustration-free-png_64: -8901609577173088150
+      laptop-device-clipart-design-illustration-free-png_65: 3216865956714715758
+      laptop-device-clipart-design-illustration-free-png_66: 3774824743252594894
+      laptop-device-clipart-design-illustration-free-png_67: -7617539335334503715
+      laptop-device-clipart-design-illustration-free-png_68: -1539627698963794663
+      laptop-device-clipart-design-illustration-free-png_69: -6107559669133467574
+      laptop-device-clipart-design-illustration-free-png_7: 1695554319662489984
+      laptop-device-clipart-design-illustration-free-png_70: 324243001212651744
+      laptop-device-clipart-design-illustration-free-png_71: 7141922942174284144
+      laptop-device-clipart-design-illustration-free-png_72: -2798539443620665927
+      laptop-device-clipart-design-illustration-free-png_73: 5546739224930011514
+      laptop-device-clipart-design-illustration-free-png_74: 6961009043593412525
+      laptop-device-clipart-design-illustration-free-png_75: -8842116995800897894
+      laptop-device-clipart-design-illustration-free-png_76: 2957733179040790422
+      laptop-device-clipart-design-illustration-free-png_77: 4627460161704135682
+      laptop-device-clipart-design-illustration-free-png_8: -2373270271206816805
+      laptop-device-clipart-design-illustration-free-png_9: -5272716934912925620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
