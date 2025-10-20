@@ -1,46 +1,48 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.Audio;
-using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class ControleDeAudio : MonoBehaviour
 {
-    public int volume; // Serializable
-    public int volumesfx; // Serializable
-    public bool musica; // Serializable
-    
-    public Slider volumeSlider; // Serializable
-    public Slider volumesfxSlider; // Serializable
-    public Toggle toggleMusica; // Serializable
-    public TMP_Text textoMusica; // Serializable
+    public AudioMixer audioMixer;
+    float masterVolume = 0;
+
+    public TMP_Text texto;
+    public Slider slider;
     
     void Start()
     {
-        musica = toggleMusica.isOn;
-        volume = (int)volumeSlider.value;
-        volumesfx = (int)volumesfxSlider.value;
+        audioMixer.GetFloat("Master", out masterVolume);
+        
+        slider.value = masterVolume;
     }
-    
     void Update()
     {
-        musica = toggleMusica.isOn;
-        volume = (int)volumeSlider.value;
-        volumesfx = (int)volumesfxSlider.value;
-        
-        musica = toggleMusica.isOn;
-        volume = (int)volumeSlider.value;
-        volumesfx = (int)volumesfxSlider.value; 
-        
-        if (musica == true)
+        if (Input.GetKeyDown(KeyCode.A))
         {
-            textoMusica.text = "Ligado";
-            textoMusica.color = Color.green;
+            masterVolume += 1f;
+            audioMixer.SetFloat("Master", masterVolume);
+        }
+        
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            masterVolume -= 1f;
+            audioMixer.SetFloat("Master", masterVolume);
+        }
+
+
+        masterVolume = slider.value;
+        texto.text = masterVolume.ToString();
+
+        if (masterVolume <= -20)
+        {
+            audioMixer.SetFloat("Master", -80f); 
         }
         else
         {
-            textoMusica.text = "Desligado";
-            textoMusica.color = Color.red;
+            audioMixer.SetFloat("Master", masterVolume);  
         }
+        
     }
 }

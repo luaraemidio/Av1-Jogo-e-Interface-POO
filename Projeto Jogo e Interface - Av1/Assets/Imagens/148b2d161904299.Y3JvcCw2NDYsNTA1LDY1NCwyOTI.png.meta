@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ff9eb5b7c0403847a966f5fa59b2121
+guid: eeeae8b4db7880448ad65d9813d5faab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3432717553192849819
-    second: ufoBlue_0
+      213: 580225196231968211
+    second: 148b2d161904299.Y3JvcCw2NDYsNTA1LDY1NCwyOTI_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ufoBlue_0
+      name: 148b2d161904299.Y3JvcCw2NDYsNTA1LDY1NCwyOTI_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 91
-        height: 91
+        width: 404
+        height: 316
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b91de446d6673af20800000000000000
-      internalID: 3432717553192849819
+      spriteID: 3d54327edbf5d0800800000000000000
+      internalID: 580225196231968211
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ufoBlue_0: 3432717553192849819
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
