@@ -18,21 +18,7 @@ public class Player : Personagem
     {
         amdando = false;
         
-        //direita
-        if (arma.rotation.eulerAngles.z > -90 
-            && arma.rotation.eulerAngles.z < 90)
-        {
-            spriteRenderer.flipX = false;
-        }
         
-        //esquerda
-        if (arma.rotation.eulerAngles.z > 90 
-            && arma.rotation.eulerAngles.z < 270)
-        {
-            spriteRenderer.flipX = true;
-        }
-
-
 
         //movimento para a esquerda
         if (Input.GetKey(KeyCode.A))
@@ -62,6 +48,6 @@ public class Player : Personagem
             amdando = true;
         }
         
-       // animator.SetBool("Andando", amdando);
+        animator.SetBool("Andando", amdando);
     }
 }

@@ -17,17 +17,7 @@ public class Arma : MonoBehaviour
    void Update()
     {
          
-        if (gameObject.transform.rotation.eulerAngles.z > -90 
-            && gameObject.transform.rotation.eulerAngles.z < 90)
-        {
-            transform.localScale = new Vector3(1 , 1, 1);
-        }
-        
-        if (gameObject.transform.rotation.eulerAngles.z > 90 
-            && gameObject.transform.rotation.eulerAngles.z < 270)
-        {
-            transform.localScale = new Vector3( 1, -1, 1);
-        }
+     
 
 
         

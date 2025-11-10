@@ -43,17 +43,19 @@ public class Inimigo : Personagem
     {
         andando = false;
         
-        if (posicaoDoPlayer.position.x - transform.position.x > 0)
-        {
-            spriteRenderer.flipX = false;
-        }
+      //  gameObject.transform.LookAt(posicaoDoPlayer, Vector3.up);
+      
+      
+      // Calculate direction from this object to the target
+      Vector3 direction = posicaoDoPlayer.position - transform.position;
+
+      // Calculate angle in degrees (atan2 handles all quadrants)
+      float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+
+      // Apply rotation around Z-axis only (2D rotation)
+      transform.rotation = Quaternion.Euler(0f, 0f, angle);
         
-        if (posicaoDoPlayer.position.x - transform.position.x < 0)
-        {
-            spriteRenderer.flipX = true;
-        }
-
-
+        
         if (posicaoDoPlayer != null && 
             Vector3.Distance(posicaoDoPlayer.position, transform.position) <= raioDeVisao )
         {
