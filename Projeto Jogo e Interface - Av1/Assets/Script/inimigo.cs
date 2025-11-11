@@ -14,6 +14,8 @@ public class Inimigo : Personagem
 
     private bool andando = false;
     
+    private InimigosAbatidos inimigosAbatidos;
+    
     public void setDano(int dano)
     {
         this.dano = dano;
@@ -35,6 +37,8 @@ public class Inimigo : Personagem
             posicaoDoPlayer =  GameObject.Find("Player").transform;
            // posicaoDoPlayer =  GameObject.FindGameObjectsWithTag("Player")[0].transform;
         }
+
+        inimigosAbatidos = GameObject.Find("Placar").GetComponent<InimigosAbatidos>();
         
         raioDeVisao = _visaoCollider2D.radius;
 
@@ -70,8 +74,10 @@ public class Inimigo : Personagem
         
         if (getVida() <= 0)
         {
+            inimigosAbatidos.numerodeInimigos += 1;
             //desativa o objeto do Inimigo
             gameObject.SetActive(false);
+          
         }
         
        // animator.SetBool("Andando",andando);
@@ -90,6 +96,8 @@ public class Inimigo : Personagem
             //collision.gameObject.GetComponent<Personagem>().recebeDano(getDano());
             
             //desativa quando bate no player
+            
+            inimigosAbatidos.numerodeInimigos += 1;
             gameObject.SetActive(false);
         }
     }
