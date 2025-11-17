@@ -11,6 +11,8 @@ public class Inimigo : Personagem
     
     private SpriteRenderer spriteRenderer;
     private Animator animator;
+    
+    public AudioSource audioSource;
 
     private bool andando = false;
     
@@ -41,6 +43,8 @@ public class Inimigo : Personagem
         inimigosAbatidos = GameObject.Find("Placar").GetComponent<InimigosAbatidos>();
         
         raioDeVisao = _visaoCollider2D.radius;
+        
+        audioSource = GetComponent<AudioSource>();
 
     }
     void Update()
@@ -82,6 +86,11 @@ public class Inimigo : Personagem
         
        // animator.SetBool("Andando",andando);
 
+    }
+
+    public void playAudio()
+    {
+        audioSource.Play();
     }
     
     

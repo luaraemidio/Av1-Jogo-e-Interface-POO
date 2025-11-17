@@ -470,6 +470,7 @@ MonoBehaviour:
   raioDeVisao: 1
   _visaoCollider2D: {fileID: 4213475564179520231}
   posicaoDoPlayer: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!58 &7581295144874818689
 CircleCollider2D:
   m_ObjectHideFlags: 0
