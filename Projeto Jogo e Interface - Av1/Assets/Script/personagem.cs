@@ -1,3 +1,4 @@
+using UnityEditor;
 using UnityEngine;
 
 public class Personagem : MonoBehaviour
@@ -34,5 +35,7 @@ public class Personagem : MonoBehaviour
     public float getVelocidade()
     {
         return this.velocidade;
+    
     }
+    
 }
