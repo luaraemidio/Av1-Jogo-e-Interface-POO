@@ -465,7 +465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vida: 50
   energia: 10
-  velocidade: 4
+  velocidade: 1
   dano: 10
   raioDeVisao: 1
   _visaoCollider2D: {fileID: 4213475564179520231}
