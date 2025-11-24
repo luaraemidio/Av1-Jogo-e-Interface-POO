@@ -697,7 +697,7 @@ MonoBehaviour:
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
-  tempoDoNovoInimigo: 20
+  tempoDoNovoInimigo: 12
   distanciaInimigo: 3
 --- !u!4 &467288620
 Transform:
@@ -901,16 +901,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4801160938918394652, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4801160938918394652, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6737269137400029002, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
       propertyPath: velocidade
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6737269137400029002, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
+      propertyPath: posicaoDoPlayer
+      value: 
+      objectReference: {fileID: 291269381}
     - target: {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
       propertyPath: m_Name
       value: 'Inimigo '
@@ -1750,7 +1754,7 @@ MonoBehaviour:
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
   - {fileID: 8945032345825319728, guid: 98e791eb0129d6d41b16dfa01f86fa2b, type: 3}
-  tempoDoNovoInimigo: 1
+  tempoDoNovoInimigo: 10
   distanciaInimigo: 3
 --- !u!4 &1175381394
 Transform:

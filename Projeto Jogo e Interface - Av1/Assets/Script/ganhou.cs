@@ -2,6 +2,7 @@ using System;
 using UnityEngine;
 using TMPro;
 using Unity.VisualScripting;
+using UnityEditor;
 
 public class GerenciadorDeVitoria : MonoBehaviour
 {
@@ -29,7 +30,7 @@ public class GerenciadorDeVitoria : MonoBehaviour
         {
             venceu = true;
             textoVitoria.gameObject.SetActive(true);
-            textoVitoria.text = "GANHOU!";
+            textoVitoria.text = "Você ganhou!";
             Debug.Log("Vitória!");
         }
         
